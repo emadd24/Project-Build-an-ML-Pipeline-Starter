@@ -179,3 +179,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+## Submission Links
+
+- **W&B Project:** https://wandb.ai/emadd24-western-governors-university/nyc_airbnb  
+- **GitHub Repository:** https://github.com/emadd24/Project-Build-an-ML-Pipeline-Starter
